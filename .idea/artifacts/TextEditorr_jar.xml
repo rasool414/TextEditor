@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TextEditorr:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="TextEditorr.jar">
+      <element id="module-output" name="TextEditorr" />
+    </root>
+  </artifact>
+</component>
